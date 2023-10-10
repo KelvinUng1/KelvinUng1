@@ -1,4 +1,4 @@
 Hi there 👋
-- 🌱 I’m currently learning to code! -
+- 🌱 I’m currently learning to code! 
 
 
